@@ -1,1 +1,2 @@
-# bootcamp_project
+# Coinbase - Case Study
+## Increasing economic freedom in the world!
