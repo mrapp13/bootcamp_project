@@ -8,3 +8,5 @@ Coinbase power the cryptoeconomy, with the main mission of bringing economic fre
   - Before going public Coinbase received $540 million worth of VC funding
     - Coinbase brings in revenue mainly via trading fees from traders, but also through subscription and services fees, and through the occasional sale of crypto assets that it owns.
   - Brian Armstrong started coinbase as a way to create a new economy that could tie the world together, free of banks, and the hassle of cross border transactions.  To be able to link the wealthy to the poor seamlessly and give everyone in the world opportunity.
+## Business Activites
+  Coinbase is attempting to solve the issue of making cryptocurrencies and digital assets accessible to everyone, and through a platform that is easy to use and understand.
