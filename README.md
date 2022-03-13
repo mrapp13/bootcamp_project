@@ -35,4 +35,12 @@ Some products and services that I would advise Coinbase to add to its platform w
   - Coinbase does currently have some amrgin trading on their platform, up to 3X leverage but in order to be competetive in this market most excahnges offer up to at least 10X with occasionally 100X while that is excessive, 10X leverage is a market norm in this domaine.  Leverage trading is quite common in the space as traders lvoe suing the volatility of the market to create exponential gains through leverage.  For now this type of trading happens largely away from Coinbase on other exchanges. 
   - This next service falls more in line with what Cionbase stands for in helping the retail investor and the little man get involved in Crytpo is setting up a way to get your wallet to DCA for you on a time frame of our choice. This is a service offered by Voyager and is great for folks who jsut want to buy in to the market and forget about it.
   - Lastly if Cionbase could find a way to create an IRA they could tap in to a largely untapped market. I trust capital is the big heavy hitter in this market and it is still very much growing. In an exponetially growing market the ability to invest in a Roth IRA and not have to pay taxes on those gains is a truly incredible service, and one that could really help eliminate the problem of folks not having enough money when they retire. This serivice also gives Coinbase another way to compete with traditional banks, and not just their crypto peers.  
-**Overall, Cionbase offers services that I highly recommend, are user friendly and simple, helping to bring in new investors on a daily basis while disrupting the space that will be the fastest growing of our lives.
+**Overall, Cionbase offers services that I highly recommend, are user friendly and simple, helping to bring in new investors on a daily basis while disrupting the space that will be the fastest growing of our lives.**
+https://www.cbinsights.com/research/report/coinbase-strategy-teardown/
+https://www.freethink.com/series/challengers/cryptocurrency
+https://stackshare.io/coinbase
+https://blog.coinbase.com/is-coinbase-a-finance-or-tech-company-f474b852272d
+https://coinmarketcap.com/
+https://www.businessofapps.com/data/coinbase-statistics/
+https://www.businessofapps.com/data/coinbase-statistics/
+https://fortunly.com/investments/best-crypto-exchange/#gref
